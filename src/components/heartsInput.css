@@ -1,0 +1,8 @@
+.round_hearts {
+    display: flex;
+    justify-content: space-around;
+}
+
+.input_hearts {
+    width: 20px;
+}

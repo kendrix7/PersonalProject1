@@ -1,0 +1,25 @@
+#master_container {
+  margin: 0;
+  padding: 0;
+  /* background: black; */
+  height: 736px;
+  width: 100%;
+}
+
+#master_comp_container {
+  margin: 0;
+  padding: 0;
+  /* background: #E6B5B5; */
+  height: 90%;
+  width: 100%;
+}
+
+#master_navbar_container {
+  margin: 0;
+  padding: 0;
+  /* background: #578091; */
+  height: 10%;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
